@@ -16,7 +16,7 @@ int main(void)
 
 	printf("%-6.2g\n", .0000009979);
 	// My answer:		9.97e-07
-	// Actual answer:	1e-06
+	// Actual answer:	1e-06	-> maybe round off / 9.9e-07 + 0.1e-07 = 10.0e-07 = 1e-06
 
 	return 0;
 }
