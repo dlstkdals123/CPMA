@@ -1,4 +1,4 @@
-## Exercise 2.02
+## Exercise 02.02
 Consider the following program:
 
 	#include <stdio.h>
