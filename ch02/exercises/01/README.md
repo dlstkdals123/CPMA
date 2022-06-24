@@ -1,4 +1,4 @@
-## Exercise 2.01
+## Exercise 02.01
 Create and run Kernighan and Ritchie's famous "hello, world" program:
 
 	#include <stdio.h>
