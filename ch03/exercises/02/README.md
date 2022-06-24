@@ -1,5 +1,5 @@
 (a)   
-My answer : printf("%8.1e\n", x);   
+My answer : printf("%8.1e", x);   
 Actual answer : printf("%8.1e", x);   
 
 (b)   
