@@ -15,8 +15,8 @@ int main(void)
 (b) What output does the program produce?
 ## Answer
 (a)   
-My answer : The directive is #include <stdio.h>. The statements are the printf() statement and the return statement   
-Actual answer : The only directive in the program is #include <stdio.h> in line 1. The statements are the lines 5-8: the printf() statements and the return statement.   
+My answer : The directive is ```#include <stdio.h>```. The statements are the ```printf()``` statement and the ```return``` statement   
+Actual answer : The only directive in the program is ```#include <stdio.h>``` in line 1. The statements are the lines 5-8: the ```printf()``` statements and the ```return``` statement.   
 
 (b)   
 My answer
