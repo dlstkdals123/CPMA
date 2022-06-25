@@ -12,4 +12,20 @@ The following program fragments illustrate the relational and equality operators
     printf("%d", i % j + i < k);
 ```
 
+
 ## Answer
+(a)   
+My answer : 1   
+Actual answer : 1   
+
+(b)   
+My answer : 1   
+Actual answer : 1   
+
+(c)   
+My answer : 1   
+Actual answer : 1   
+
+(d)   
+My answer : 0   
+Actual answer : 0   
