@@ -13,10 +13,7 @@ else if (age < 13)
 ## Answer
 My answer
 ```C
-if (age >= 13 && age <= 19)
-    teenager = true;
-else
-    teenager = false;
+teenager = age >= 13 && age <= 19;
 ```
 
 Actual answer
