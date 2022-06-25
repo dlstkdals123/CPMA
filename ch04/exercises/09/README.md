@@ -15,4 +15,20 @@ Show the output produced by the following program fragments. Assume that ```i```
     printf("%d %d %d", i, j, k);
 ```
 
+
 ## Answer
+(a)   
+My answer : 63 8   
+Actual answer : 63 8   
+
+(b)   
+My answer : 3 2 1   
+Actual answer : 3 2 1   
+
+(c)   
+My answer : 2 -1 3   
+Actual answer : 2 -1 3   
+
+(d)   
+My answer : 0 0 0   
+Actual answer : 0 0 0   
