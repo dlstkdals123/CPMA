@@ -14,6 +14,7 @@ The following program fragments illustrate the short-circuit behavior of logical
     printf("%d ", ++i || ++j && ++k);
     printf("%d %d %d", i, j, k);
 ```
+
 ## Answer
 (a)   
 My answer : 1 3 4 5   
