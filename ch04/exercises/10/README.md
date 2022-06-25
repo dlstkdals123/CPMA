@@ -24,10 +24,10 @@ Actual answer : 12 12
 My answer : 3 4   
 Actual answer : 3 4   
 
-(c)
+(c)   
 My answer : 2 8   
 Actual answer : 2 9   
 
-(d)
+(d)   
 My answer : 6 9   
 Actual answer : 6 9   
