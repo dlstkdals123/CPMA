@@ -9,5 +9,5 @@ switch (i % 3) {
 }
 ```
 ## Answer
-My answer : onetwo
+My answer : onetwo   
 Actual answer : The output is ```onetwo``` since there are no break statements after the cases.
