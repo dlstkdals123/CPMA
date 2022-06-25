@@ -19,7 +19,8 @@ int main(void)
 	second_sum = i1 + i3 + i5 + j2 + j4;
 	total = 3 * first_sum + second_sum;
 
-	CheckDigit == 9 - ((total - 1) % 10) ? printf("VALID\n") : printf("NOT VALID\n");
+	if (CheckDigit == 9 - ((total - 1) % 10)) printf("VALID\n");
+	else printf("NOT VALID\n");
 
 	return 0;
 
