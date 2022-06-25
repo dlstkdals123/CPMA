@@ -18,5 +18,4 @@ int main(void)
     printf("%d %d %d\n", i, j, k);
     
 	return 0;
-
 }
