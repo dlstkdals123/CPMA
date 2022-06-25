@@ -2,13 +2,20 @@
 
 int main(void)
 {
-    int hour, minute;
+  int hours, minutes;
 
-    printf("Enter a 24-hour time: ");
-    scanf("%d :%d", &hour, &minute);
+  printf("Enter a 24-hour time: ");
+  scanf("%d:%d", &hours, &minutes);
 
-    int ampm_hour = hour >= 12 ? hour % 12 : hour;
-    printf("Equivalent 12 hour time: %d:%d %s", ampm_hour, minute, hour < 12 ? "AM" : "PM");
+  printf("Equivalent 12-hour time: ");
+  if (hours == 0)
+    printf("12:%.2d AM\n", minutes);
+  else if (hours < 12)
+    printf("%d:%.2d AM\n", hours, minutes);
+  else if (hours == 12)
+    printf("%d:%.2d PM\n", hours, minutes);
+  else
+    printf("%d:%.2d PM\n", hours - 12, minutes);
 
-    return 0;
+  return 0;
 }
