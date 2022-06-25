@@ -17,7 +17,7 @@ int main(void)
 	else if (Income <= 7000) Tax = 142.50f + 0.05f * (Income - 5250);
 	else Tax = 230.00f + 0.06f * (Income - 7000);
 
-	printf("Tax due : $%.2f", Tax);
+	printf("Tax due : $%.2f\n", Tax);
 
 	return 0;
 }
