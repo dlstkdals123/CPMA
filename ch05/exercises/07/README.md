@@ -5,5 +5,5 @@ printf("%d\n", i >= 0 ? i : -i);
 ```
 
 ## Answer
-My answer : 17, 17
+My answer : 17, 17   
 Actual answer : The statement will print 17 in both cases.
