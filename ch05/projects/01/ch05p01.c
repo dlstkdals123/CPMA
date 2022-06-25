@@ -1,5 +1,3 @@
-// Prints a date in legal form
-
 #include <stdio.h>
 
 int main(void)
