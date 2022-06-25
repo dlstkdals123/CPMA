@@ -25,7 +25,7 @@ My answer : 3 4
 Actual answer : 3 4   
 
 (c)
-My answer : 2 8
+My answer : 2 8   
 Actual answer : 2 9   
 
 (d)
