@@ -24,6 +24,7 @@ switch (area_code) {
 	case 478: printf("Macon\n"); break;
 	case 706: case 762: printf("Columbus\n"); break;
 	case 912: printf("Savannah\n"); break;
+	default: printf("Area code not recognized\n"); break;
 }
 ```
 
