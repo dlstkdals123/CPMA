@@ -4,18 +4,21 @@ int main(void)
 {
 	int i, j, k;
 
-    i = 1;
-    printf("%d ", i++ - 1);
-    printf("%d\n", i);
-    i = 10; j = 5;
-    printf("%d ", i++ - ++j);
-    printf("%d %d\n", i, j);
-    i = 7; j = 8;
-    printf("%d ", i++ - --j);
-    printf("%d %d\n", i, j);
-    i = 3; j = 4; k = 5;
-    printf("%d ", i++ - j++ + --k);
-    printf("%d %d %d\n", i, j, k);
+	i = 1; // (a)
+	printf("%d ", i++ - 1);
+	printf("%d\n", i);
+	
+	i = 10; j = 5; // (b)
+	printf("%d ", i++ - ++j);
+	printf("%d %d\n", i, j);
+	
+	i = 7; j = 8; // (c)
+	printf("%d ", i++ - --j);
+	printf("%d %d\n", i, j);
+	
+	i = 3; j = 4; k = 5; // (d)
+	printf("%d ", i++ - j++ + --k);
+	printf("%d %d %d\n", i, j, k);
     
 	return 0;
 }
