@@ -21,5 +21,5 @@ My answer : -1 or -2
 Actual answer : -1 or -2   
 
 (d)   
-My answer : 1
+My answer : 1   
 Actual answer : 1 or 2   
