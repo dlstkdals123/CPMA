@@ -12,8 +12,8 @@ if (n % 2 == 0)
     printf("n is even\n");
 ```
 
-Actual answer
+Actual answer : The problem is the semicolon at the end of the first line. If we remove it, the statement is now correct:
 ```C
-if (n % 2 == 0)            /* removed semicolon */
-    printf("n is even\n");
+if (n % 2 == 0)
+  printf("n is even\n");
 ```
