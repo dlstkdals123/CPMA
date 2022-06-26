@@ -6,5 +6,5 @@ Which one of the following statements is not equivalent to the other two (assumi
 (c) ```do {...} while (i < 10);```   
 
 ## Answer
-My answer : (c) will execute at least once unlike (a), (b)
+My answer : (c) will execute at least once unlike (a), (b)   
 Actual answer : The third statement (c) is not equivalent to the other two, because the ```do``` statement will always run at least once, then check if the condition in the ```while``` statment is true, unlike the other two statements, which always check the condition first.
