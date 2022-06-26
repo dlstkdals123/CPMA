@@ -7,4 +7,4 @@ Which one of the following statements is not equivalent to the other two (assumi
 
 ## Answer
 My answer : (c) is not equivalent to (a), (b)   
-Actual answer : The third statement (c) is not equivalent to the other two, because the postfix increment operator will only be applied after the conditional expression is evaluated, unlike the other two in which the two expressions are separate.
+Actual answer : (c) is not equivalent to (a) and (b), because i is incremented before the loop body is executed.
