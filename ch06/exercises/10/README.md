@@ -20,7 +20,7 @@ while (…) {
 }
 ```
 
-Actual answer
+Actual answer   
 Consider the following while loop:
 ```C
 while (…) {
