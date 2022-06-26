@@ -20,8 +20,7 @@ while (…) {
 }
 ```
 
-Actual answer   
-Consider the following while loop:
+Actual answer : Consider the following while loop:
 ```C
 while (…) {
     …
