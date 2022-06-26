@@ -7,14 +7,12 @@ int main(void)
 	printf("Enter two integers : ");
 	scanf("%d %d", &i1, &i2);
 
-	printf("Greatest common divisor : ");
-
 	while (i2 != 0) {
 		Remainder = i1 % i2;
 		i1 = i2;
 		i2 = Remainder;
 	}
-	printf("%d\n", i1);
+	printf("Greatest common divisor : %d\n", i1);
 
 	return 0;
 }
