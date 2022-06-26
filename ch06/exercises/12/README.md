@@ -14,9 +14,17 @@ for (d = 2; d * d < n; d++)
     if (n % d == 0)
         break;
 ```
+
 Actual answer
 ```C
 for (d = 2; d * d <= n; d++)
-    if (n % d == 0)
-        break;
+  if (n % d == 0)
+    break;
+```
+The if statement that follows the loop will need to be modified as well:
+```C
+if (d * d <= n)
+  printf("%d is divisible by %d\n", n, d);
+else
+  printf("%d is prime\n", n);
 ```
