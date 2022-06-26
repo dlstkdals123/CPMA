@@ -2,12 +2,12 @@
 
 int main(void)
 {
-	int i1, i2, Remainder;
-
-	printf("Enter two integers : ");
-	scanf("%d %d", &i1, &i2);
-
-	while (i2 != 0) {
+    int i1, i2, Remainder;
+    
+    printf("Enter two integers : ");
+    scanf("%d %d", &i1, &i2);
+    
+    while (i2 != 0) {
         Remainder = i1 % i2;
         i1 = i2;
         i2 = Remainder;
