@@ -10,7 +10,7 @@ int main(void)
 		if (x > Max) Max = x;
 	} while (x > 0);
 
-	printf("The Largest number entered was %.2f\n", Max);
+	printf("\nThe Largest number entered was %.2f\n", Max);
 
 	return 0;
 }
