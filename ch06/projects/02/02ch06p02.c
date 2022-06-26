@@ -14,7 +14,7 @@ int main(void)
 		i1 = i2;
 		i2 = Remainder;
 	}
-	printf("%d", i1);
+	printf("%d\n", i1);
 
 	return 0;
 }
