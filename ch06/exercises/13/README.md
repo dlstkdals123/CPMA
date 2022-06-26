@@ -6,3 +6,13 @@ for (n = 0; m > 0; n++)
 ```
 
 ## Answer
+My answer
+```C
+for (n = 0; m > 0; n++, m /= 2);
+```
+
+Actual answer
+```C
+for (n = 0; m > 0; n++, m /= 2)
+    ;
+```
