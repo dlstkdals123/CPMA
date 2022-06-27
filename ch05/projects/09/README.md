@@ -7,4 +7,4 @@ Enter second date (mm/dd/yyyy): 5/17/07
 ```
 
 ## Answer
-See ```ch05p09.c``` and ```ch05p09sol.c```.
+See ```ch05p09.c```
