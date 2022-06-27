@@ -5,4 +5,4 @@ The ```square2.c``` program of Section 6.3 will fail (usually by printing strang
 ```int``` : 46341   
 ```short``` : 182   
 ```long int``` : 46341   
-So, my machine stores ```short``` in 16 bits and ```int``` in 32 bits just like ```long int```.   
+So, ```short``` values are stored in 16 bits. ```int``` and ```long int``` are stored in 32 bits.
