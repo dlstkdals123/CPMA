@@ -7,4 +7,4 @@ Equivalent 24-hour time: 21:11
 See Programming Project 8 for a description of the input format.
 
 ## Answer
-See ```ch07p09.c``` and ```ch07p09sol.c```.
+See ```ch07p09.c```
