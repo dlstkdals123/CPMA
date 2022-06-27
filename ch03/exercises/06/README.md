@@ -2,4 +2,4 @@
 Show how to modify the ```addfrac.c``` program of Section 3.2 so that the user is allowed to enter fractions that contain spaces before and after each ```/``` character.
 
 ## Answer
-See ```ch03ex06.c``` and ```ch03ex06sol.c```
+See ```ch03ex06.c```
