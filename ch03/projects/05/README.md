@@ -16,4 +16,4 @@ Diagonal sums: 34 34
 If the row, column, and diagonal sums are all the same (as they are in this example), the numbers are said to form a magic square. The magic square shown here appears in a 1514 engraving by artist and mathematician Albrecht Dürer. (Note that the middle numbers in the last row give the date of engraving.)
 
 ## Answer
-See ```ch03p05.c``` and ```ch03p05sol.c```
+See ```ch03p05.c```
