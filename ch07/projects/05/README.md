@@ -7,4 +7,4 @@ Scrabble value: 12
 Your program should allow any mixture of lower-case and upper-case letters in the word. Hint: Use the ```toupper``` library function.
 
 ## Answer
-See ```ch07p05.c``` and ```ch07p05sol.c```.
+See ```ch07p05.c```
