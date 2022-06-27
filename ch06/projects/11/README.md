@@ -10,4 +10,4 @@ Write a program that approximates e by computing the value of
 where n is an integer entered by the user.   
 
 ## Answer
-See ```ch06p11.c``` and ```ch06p11sol.c```.
+See ```ch06p11.c```
