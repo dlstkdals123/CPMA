@@ -13,12 +13,12 @@ Actual answer : ```\10```
 
 (b)   
 My answer : ```\12```   
-Actual answer : ```\10```   
+Actual answer : ```\12```   
 
 (c)   
 My answer : ```\15```   
-Actual answer : ```\10```   
+Actual answer : ```\15```   
 
 (d)   
 My answer : ```\11```   
-Actual answer : ```\10```   
+Actual answer : ```\11```   
