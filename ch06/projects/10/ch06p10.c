@@ -2,26 +2,26 @@
 
 int main(void)
 {
-	int Month, Day, Year,
-		EarliestMonth, EarliestDay, EarliestYear;
+	int month, day, year,
+		earliestMonth, earliestDay, earliestYear;
 
 	printf("Enter first date (mm/dd/yy) : ");
-	scanf("%d /%d/ %d", &EarliestMonth, &EarliestDay, &EarliestYear);
+	scanf("%d /%d/ %d", &earliestMonth, &earliestDay, &earliestYear);
 	for (;;) {
 		printf("Enter first date (mm/dd/yy) : ");
-		scanf("%d /%d/ %d", &Month, &Day, &Year);
+		scanf("%d /%d/ %d", &month, &day, &year);
 
-		if (Month == 0 && Day == 0 && Year == 0)
+		if (month == 0 && day == 0 && year == 0)
 			break;
 
-		if (Year * 10000 + Month * 100 + Day < EarliestYear * 10000 + EarliestMonth * 100 + EarliestDay) {
-			EarliestMonth = Month;
-			EarliestDay = Day;
-			EarliestYear = Year;
+		if (year * 10000 + month * 100 + day < earliestYear * 10000 + earliestMonth * 100 + earliestDay) {
+			earliestMonth = month;
+			earliestDay = day;
+			earliestYear = year;
 		}
 	}
 
-	printf("%d/%d/%.2d is the earliest date", EarliestMonth, EarliestDay, EarliestYear);
+	printf("%d/%d/%.2d is the earliest date", earliestMonth, earliestDay, earliestYear);
 
 	return 0;
 
