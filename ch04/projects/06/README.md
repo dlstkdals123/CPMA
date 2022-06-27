@@ -15,4 +15,4 @@ Check digit: 8
 ```
 
 ## Answer
-See ```ch04p06.c``` and ```ch04p06sol.c```.
+See ```ch04p06.c```
