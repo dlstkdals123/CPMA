@@ -7,4 +7,4 @@ In lowest terms: 1/2
 Hint: To reduce a fraction to lowest terms, first compute the GCD of the numberator and denominator. Then divide both the numerator and denominator by the GCD.
 
 ## Answer
-See ```ch06p03.c``` and ```ch06p03sol.c```.
+See ```ch06p03.c```
