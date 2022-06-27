@@ -11,4 +11,4 @@ Enter value of trade: 0
 ```
 
 ## Answer
-See ```ch06p04.c``` and ```ch06p04sol.c```.
+See ```ch06p04.c```
