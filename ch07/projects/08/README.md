@@ -13,4 +13,4 @@ Modify Programming Project 8 from Chapter 5 so that the user enters a time using
 You may assume that the input has one of these forms; there is no need to test for errors.
 
 ## Answer
-See ```ch07p08.c``` and ```ch07p08sol.c```.
+See ```ch07p08.c```.
