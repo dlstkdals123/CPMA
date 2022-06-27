@@ -5,4 +5,4 @@ Enter a date (mm/dd/yyyy): 2/17/2011
 You entered the date 20110217
 ```
 ## Answer
-See ```ch03p01.c``` and ```ch03p01sol.c```
+See ```ch03p01.c```
