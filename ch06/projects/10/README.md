@@ -9,4 +9,4 @@ Enter a date (mm/dd/yy): 0/0/0
 ```
 
 ## Answer
-See ```ch06p10.c``` and ```ch06p10sol.c```.
+See ```ch06p10.c```
