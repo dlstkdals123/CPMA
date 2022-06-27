@@ -7,4 +7,4 @@ The reversal is: 82
 Read the number using ```%d```, then break it into two digits. Hint: If ```n``` is an integer, then ```n % 10``` is the last digit in ```n``` and ```n / 10``` is ```n``` with the last digit removed.
 
 ## Answer
-See ```ch04p01.c``` and ```ch04p01sol.c```.
+See ```ch04p01.c```
