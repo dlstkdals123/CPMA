@@ -8,4 +8,4 @@ Smallest: 10
 Use as few ```if``` statements as possible: Hint: Four ```if``` statements are sufficient.
 
 ## Answer
-See ```ch05p07.c``` and ```ch05p07sol.c```.
+See ```ch05p07.c```
