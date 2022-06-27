@@ -3,4 +3,4 @@ Suppose that ```i``` is a variable of type ```int```, ```j``` is a variable of t
 
 ## Answer
 My answer : ```unsigned int```   
-Actual answer : ```unsigned int```. ```j``` casts to ```int```, and ```k``` promotes the expression to ```unsigned int```.   
+Actual answer : ```unsigned int```, because the ```(int)``` cast applies only to ```j```, not ```j * k```.
