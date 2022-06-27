@@ -9,4 +9,4 @@ Write a program that uses ```printf``` to display the following picture on the s
   *
 ```
 ## Answer
-See ```ch02p01.c``` and ```ch02p01sol.c```
+See ```ch02p01.c```.
