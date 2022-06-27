@@ -6,5 +6,5 @@ Write a program that asks the user to enter a value for x and then displays the 
 Hint: C doesn't have an exponentiation operator, so you'll need to multiply x by itself repeatedly in order to compute the powers of x. (For example, ```x * x * x``` is ```x``` cubed.)
 
 ## Answer
-See ```ch02p05.c``` and ```ch02p05sol.c```
+See ```ch02p05.c```
 
