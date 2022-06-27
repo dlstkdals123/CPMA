@@ -13,4 +13,4 @@ Here's a simplified version of the Beaufort scale, which is used to estimate win
 Write a program that asks the user to enter a wind speed (in knots), then displays the corresponding description.
 
 ## Answer
-See ```ch05p04.c``` and ```ch05p04sol.c```.
+See ```ch05p04.c```
