@@ -9,7 +9,7 @@ Enter phone number: CALLATT
 Enter phone number: 1-800-COL-LECT
 1-800-265-5328
 ```
-You may assums that any letteres entered by the user are upper case.
+You may assume that any letteres entered by the user are upper case.
 
 ## Answer
 See ```ch07p04.c``` and ```ch07p04sol.c```.
