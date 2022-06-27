@@ -20,4 +20,4 @@ Closest departure time is 12:47 p.m., arriving at 3:00 p.m.
 Hint: Convert the input into a time expressed in minutes since midnight, and compare it to the departure times, also expressed in minutes since midnight. For example, 13:15 is 13 * 60 + 15 = 795 minutes since midnight, which is closer to 12:47 p.m. (767 minutes since midnight) than to any of the other departure times.
 
 ## Answer
-See ```ch05p08.c```, ```ch05p08sol.c```, and ```ch05p08sol2.c```.
+See ```ch05p08.c```
