@@ -6,4 +6,4 @@ Check digit: 5
 ```
 
 ## Answer
-See ```ch04p05.c``` and ```ch04p05sol.c```.
+See ```ch04p05.c```
