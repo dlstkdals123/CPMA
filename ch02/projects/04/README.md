@@ -6,4 +6,4 @@ With tax added: $105.00
 ```
 
 ## Answer
-See ```ch02p04.c``` and ```ch02p01so4.c```
+See ```ch02p04.c```
