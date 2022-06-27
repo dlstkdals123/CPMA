@@ -2,32 +2,32 @@
 
 int main(void)
 {
-	int Max, Max1, Min, Min1, n1, n2, n3, n4;
+	int max, max1, min, min1, n1, n2, n3, n4;
 
 	printf("Enter four integers : ");
 	scanf("%d %d %d %d", &n1, &n2, &n3, &n4);
 
 	if (n1 > n2) {
-		Max = n1;
-		Min = n2;
+		max = n1;
+		min = n2;
 	}
 	else {
-		Max = n2;
-		Min = n1;
+		max = n2;
+		min = n1;
 	}
 	if (n3 > n4) {
-		Max1 = n3;
-		Min1 = n4;
+		max1 = n3;
+		min1 = n4;
 	}
 	else {
-		Max1 = n4;
-		Min1 = n3;
+		max1 = n4;
+		min1 = n3;
 	}
 
-	if (Max < Max1) Max = Max1;
-	if (Min > Min1) Min = Min1;
+	if (max < max1) max = max1;
+	if (min > min1) min = min1;
 
-	printf("Largest : %d\nSmallest : %d", Max, Min);
+	printf("Largest : %d\nSmallest : %d", max, min);
 
 	return 0;
 
