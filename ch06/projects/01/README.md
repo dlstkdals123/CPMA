@@ -12,4 +12,4 @@ The largest number entered was 100.62
 Notice that the numbers aren't necessarily integers.
 
 ## Answer
-See ```ch06p01.c``` and ```ch06p01sol.c```.
+See ```ch06p01.c```
