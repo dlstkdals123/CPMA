@@ -12,4 +12,4 @@ Balance remaining after third payment: $19135.71
 Display each balance with two digits after the decimal point. Hint: Each month, the balance is decreased by the amount of the payment, but increased by the balance times the monthly interest rate. To find the monthly interest rate, convert the interest rate entered by the user to a percentage and divide it by 12.
 
 ## Answer
-See ```ch02p08.c``` and ```ch02p08sol.c```
+See ```ch02p08.c```
