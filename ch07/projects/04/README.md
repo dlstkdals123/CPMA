@@ -12,4 +12,4 @@ Enter phone number: 1-800-COL-LECT
 You may assume that any letteres entered by the user are upper case.
 
 ## Answer
-See ```ch07p04.c``` and ```ch07p04sol.c```.
+See ```ch07p04.c```
