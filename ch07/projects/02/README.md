@@ -6,4 +6,4 @@ Press Enter to continue...
 After displaying the message, the program should use ```getchar``` to read a character. ```getchar``` won't allow the program to continue until the user pressed the Enter key.
 
 ## Answer
-See ```ch07p02.c``` and ```ch07p02sol.c```.
+See ```ch07p02.c```
