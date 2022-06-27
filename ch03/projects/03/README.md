@@ -11,4 +11,4 @@ Check digit: 3
 Note: The number of digits in each group may very: you can't assume that groups have the lengths shown in this example. Test your program with actual ISBN values (usually found on the back cover of a book and on the copyright page).
 
 ## Answer
-See ```ch03p03.c``` and ```ch03p03sol.c```
+See ```ch03p03.c```
