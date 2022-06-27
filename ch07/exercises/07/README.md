@@ -8,17 +8,17 @@ For each of the following character escapes, give the equivalent octal escape. (
 
 ## Answer
 (a)   
-My answer : \10   
-Actual answer : \10   
+My answer : ```\10```   
+Actual answer : ```\10```   
 
 (b)   
-My answer : \12   
-Actual answer : \10   
+My answer : ```\12```   
+Actual answer : ```\10```   
 
 (c)   
-My answer : \15   
-Actual answer : \10   
+My answer : ```\15```   
+Actual answer : ```\10```   
 
 (d)   
-My answer : \11   
-Actual answer : \10   
+My answer : ```\11```   
+Actual answer : ```\10```   
