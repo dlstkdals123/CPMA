@@ -2,15 +2,15 @@
 
 int main(void)
 {
-    int i1, i2, Remainder;
+    int i1, i2, remainder;
     
     printf("Enter two integers : ");
     scanf("%d %d", &i1, &i2);
     
     while (i2 != 0) {
-        Remainder = i1 % i2;
+        remainder = i1 % i2;
         i1 = i2;
-        i2 = Remainder;
+        i2 = remainder;
     }
     printf("Greatest common divisor : %d\n", i1);
     
