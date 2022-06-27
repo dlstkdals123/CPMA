@@ -2,19 +2,19 @@
 
 int main(void)
 {
-	int Days, StartingDay;
+	int days, startingDay;
 
 	printf("Enter number of days in month : ");
-	scanf("%d", &Days);
+	scanf("%d", &days);
 	printf("Enter starting day of the week (1=Sun, 7=Sat) : ");
-	scanf("%d", &StartingDay);
+	scanf("%d", &startingDay);
 
 	printf("\n");
-	for (int i = 1; i < StartingDay; i++)
+	for (int i = 1; i < startingDay; i++)
 		printf("   ");
-	for (int i = 1; i <= Days; i++) {
+	for (int i = 1; i <= days; i++) {
 		printf("%2d ", i);
-		if (i % 7 == 8 - StartingDay) printf("\n");
+		if (i % 7 == 8 - startingDay) printf("\n");
 	}
 	printf("\n");
 
