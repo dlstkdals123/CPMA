@@ -8,6 +8,6 @@ Which of the following are not legal constants in C? Classify each legal constan
 (e) ```3.987e-2```   
 
 ## Answer
-My answer : (d)
+My answer : (d)   
 Actual answer : (c) and (d) are illegal constants, because of undefined numeral ```9``` in octal number ```0790```, and underscore in ```100_000```.
 (a), (b) and (e) are legal, floating point constants.
