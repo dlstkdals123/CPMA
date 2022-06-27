@@ -2,15 +2,15 @@
 
 int main(void)
 {
-	int Grade;
+	int grade;
 
 	printf("Enter numerical grade : ");
-	scanf("%d", &Grade);
+	scanf("%d", &grade);
 
-	if (Grade < 0 || Grade > 100) printf("Illegal grade\n");
+	if (grade < 0 || grade > 100) printf("Illegal grade\n");
 	else {
 		printf("Letter grade : ");
-		switch (Grade / 10) {
+		switch (grade / 10) {
 		case 10: case 9:
 			printf("A\n");
 			break;
