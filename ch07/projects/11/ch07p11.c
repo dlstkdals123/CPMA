@@ -2,22 +2,18 @@
 #include <ctype.h>
 
 int main(void) {
-	int count = 0;
-	char firstInitial, secondInitial, ch;
+	char initial, ch;
 
 	printf("Enter a first and last name : ");
-	scanf(" %c", &firstInitial);
+	scanf(" %c", &initial);
 
-	ch = getchar();
 	while ((ch = getchar()) != ' ');
-	scanf(" %c", &secondInitial);
-	printf("%c", toupper(secondInitial));
-	ch = getchar();
-	while (ch != '\n' && ch != ' ') {
+	while ((ch = getchar()) == ' ');
+	do {
 		printf("%c", ch);
-		ch = getchar();
-	}
-	printf(", %c.", toupper(firstInitial));
+	} while ((ch = getchar()) != ' ' && ch != '\n');
+
+	printf(", %c.", toupper(initial));
 
 	return 0;
 }
