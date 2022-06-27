@@ -6,4 +6,4 @@ Modify the program of Programming Project 5 so that the polynomial is evaluated 
 Note that the modified program performs fewer multiplications. This technique for evaluating polynomials is known as Horner's Rule.   
 
 ## Answer
-See ```ch02p06.c``` and ```ch02p06sol.c```
+See ```ch02p06.c```
