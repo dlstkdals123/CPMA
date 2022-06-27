@@ -6,4 +6,4 @@ You entered 404.817.6900
 ```
 
 ## Answer
-See ```ch03p04.c``` and ```ch03p04sol.c```
+See ```ch03p04.c```
