@@ -6,4 +6,4 @@ The sum is 38/24
 ```
 
 ## Answer
-See ```ch03p06.c``` and ```ch03p06sol.c```
+See ```ch03p06.c```
