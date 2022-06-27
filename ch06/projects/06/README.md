@@ -9,4 +9,4 @@ Write a program that prompts the user to enter a number n, then prints all even 
 ```
 
 ## Answer
-See ```ch06p06.c``` and ```ch06p06sol.c```.
+See ```ch06p06.c```
