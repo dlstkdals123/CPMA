@@ -13,4 +13,4 @@ Enter starting day of the week (1=Sun, 7=Sat): 3
 Hint: This program isn't as hard as it looks. The most important part is a ```for``` statement that uses a variable ```i``` to count from 1 to ```n```, where ```n``` is the number of days in the month, printing each value of ```i```. Inside the loop, an ```if``` statement tests whether ```i``` is the last day in a week; if so, it prints a new-line character.
 
 ## Answer
-See ```ch06p08.c``` and ```ch06p08sol.c```.
+See ```ch06p08.c```
