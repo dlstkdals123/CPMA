@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(void) {
-	char ch;
+	unsigned char ch;
 
 	printf("Enter phone number : ");
 
