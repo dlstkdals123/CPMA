@@ -7,4 +7,4 @@ Equivalent 12-hour time: 9:11 PM
 Be careful not to display 12:00 as 0:00.
 
 ## Answer
-See ```ch05p02.c``` and ```ch05p02sol.c```.
+See ```ch05p02.c```
