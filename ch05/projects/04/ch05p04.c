@@ -4,16 +4,16 @@
 
 int main(void)
 {
-	int Speed;
+	int speed;
 
 	printf("Enter a wind speed in knots: ");
-	scanf("%d", &Speed);
+	scanf("%d", &speed);
 
-	if (Speed < 1) printf("Calm\n");
-	else if (Speed <= 3) printf("Light air\n");
-	else if (Speed <= 27) printf("Breeze\n");
-	else if (Speed <= 47) printf("Gale\n");
-	else if (Speed <= 63) printf("Storm\n");
+	if (speed < 1) printf("Calm\n");
+	else if (speed <= 3) printf("Light air\n");
+	else if (speed <= 27) printf("Breeze\n");
+	else if (speed <= 47) printf("Gale\n");
+	else if (speed <= 63) printf("Storm\n");
 	else printf("Hurricane\n");
 
 	return 0;
